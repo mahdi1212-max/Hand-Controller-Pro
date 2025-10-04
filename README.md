@@ -41,7 +41,7 @@
 ### نصب
 ```bash
 # کلون کردن پروژه
-git clone https://github.com/yourusername/hand-controller-pro.git
+git clone https://github.com/mahdi1212-max/hand-controller-pro.git
 cd hand-controller-pro
 
 # نصب وابستگی‌ها
